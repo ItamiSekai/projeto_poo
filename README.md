@@ -13,6 +13,7 @@ O projeto foi realizado na linguagem Java, na IDE eclipse, com uma conexão em u
 Segue o link para o vídeo gravado: https://youtu.be/sED4Lgbs44A
 
 ## Documentação
-Pode ser encontrada no repositório.
+Pode ser encontrada no repositório. O arquivo está fora da pasta "sistema_cafeteria".
 
 ## Programa
+Todo o programa pode ser visualizado dentro da pasta "sistema_cafeteria". Desde as classes, frames e pasta resources com os arquivos necessários.
